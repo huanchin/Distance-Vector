@@ -1,2 +1,2 @@
 # DistanceVector
-in Python
+implement distance-vector algorithm in Python
